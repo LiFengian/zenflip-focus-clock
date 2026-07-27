@@ -1,4 +1,4 @@
-const CACHE_NAME = "zen-timer-shell-v3";
+const CACHE_NAME = "zen-timer-shell-v4";
 const appUrl = (path = "") => new URL(path, self.registration.scope).toString();
 const CORE_ASSETS = [
   appUrl(),
