@@ -1,4 +1,4 @@
-name: Deploy ZenFlip to GitHub Pages
+name: Deploy Zen Timer to GitHub Pages
 
 on:
   push:
@@ -27,8 +27,6 @@ jobs:
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3

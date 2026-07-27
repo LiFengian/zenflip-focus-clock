@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "翻页专注",
-  "short_name": "翻页专注",
-  "description": "适用于 iPad 的全屏翻页专注计时器与计划清单",
+  "name": "黑白专注",
+  "short_name": "黑白专注",
+  "description": "适用于 iPad 的全屏黑白专注计时器与计划清单",
   "lang": "zh-CN",
   "start_url": "./",
   "scope": "./",
